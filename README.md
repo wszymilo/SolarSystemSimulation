@@ -1,6 +1,6 @@
 # Solar System Simulation
 
-A Python simulation of our Solar System using Pygame, featuring accurate 
+A Python simulation of our Solar System using Pygame, featuring accurate (more-less ;) )
 relative sizes and orbital speeds of planets. Size of the Sun is reduced to make
 the inner planets visible.
 
